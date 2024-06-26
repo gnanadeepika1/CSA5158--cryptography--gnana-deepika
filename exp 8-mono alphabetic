@@ -67,3 +67,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter the text:ALED
+encrypted text:WDHG

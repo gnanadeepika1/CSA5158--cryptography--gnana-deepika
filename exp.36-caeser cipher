@@ -55,3 +55,10 @@ int main() {
 
     return 0;
 }
+
+
+
+OUTPUT:
+Enter the string:cryptography
+enter the value of k:3
+fulswrjudskl
